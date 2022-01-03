@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454331838709",
+    "project_id": "momsplatter-77a41",
+    "storage_bucket": "momsplatter-77a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454331838709:android:fc335c79d07c23b2e4d5bc",
+        "android_client_info": {
+          "package_name": "com.example.momsplatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454331838709-165lflq1opcd9qsqgrh6jdfojmtkquve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0472rdhwbApDyBV3F1ymKV-3AMlzdKhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454331838709-165lflq1opcd9qsqgrh6jdfojmtkquve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
